@@ -1,0 +1,68 @@
+[
+	{
+		"title":"Burgermarine",
+		"description":"A experiment on gamefeel made during Baconjam 07 , more levels to come..",
+		"date":"Made March 2014",
+		"link":"http://sebbdk.github.io/burgermarine/bin-debug/Main.html"
+	},
+	{
+		"title":"NGJ - Socialist",
+		"description":"Made during the Nordic game jam 2014 as an experiment together.",
+		"date":"Made 14-16 Feb. 2014",
+		"link":"http://sebbdk.github.io/-hastag/"
+	},
+	{
+		"title":"LD27 Reactor madness!",
+		"description":"made during Ludum dare 27, this is a flash arena suvival game, suvive the endles hordes of monsters",
+		"date":"Made 2013",
+		"link":"http://sebbdk.github.io/LD27/web/game/"
+	},
+	{
+		"title":"Ringrider",
+		"description":"A mobile running game, run, dodge, jump, collect points!",
+		"date":"Made 2013",
+		"link":null
+	},
+	{
+		"title":"MINI LD \"Don't panic!\"",
+		"description":"A creepy sidescrolle made in HTML5, jump, run and ??",
+		"date":"http://sebbdk.github.io/mini-ludum-dare-42/game/",
+		"link":"made 2013"
+	},
+	{
+		"title":"Click",
+		"description":"Click you way to vitory! Maybe not a real game but i had fun making it!",
+		"date":"Made 2013",
+		"link":"http://sebbdk.github.io/click/"
+	},
+	{
+		"title":"Light and darkness",
+		"description":"A small HTML5 arena game, shoot the eyeballs",
+		"date":"Made 2013",
+		"link":null
+	},
+	{
+		"title":"Room quest",
+		"description":"Mostly a HTML5 experiement and problably not really a game",
+		"date":"Made 2013",
+		"link":null
+	},
+	{
+		"title":"NGJ Mutants vs zombies",
+		"description":"Roll your way to victory in this wacky 2 player racing game",
+		"date":"Made 2013",
+		"link":null
+	},
+	{
+		"title":"Shoot the zombies - fancy version!",
+		"description":"Run, jump and shoot the zombies, now with colours!",
+		"date":"Made 2012",
+		"link":"http://crammer.deviantart.com/art/Zombie-shooter-fancy-version-211453338"
+	},
+	{
+		"title":"Shoot the zombies",
+		"description":"Run, jump and shoot the zombies",
+		"date":"Made 2012",
+		"link":"http://crammer.deviantart.com/art/Shoot-the-zombies-210858975"
+	}
+]

@@ -2,7 +2,7 @@
 * @Author: sebb
 * @Date:   2014-04-04 20:44:35
 * @Last Modified by:   sebb
-* @Last Modified time: 2014-04-07 02:56:30
+* @Last Modified time: 2014-04-07 03:07:15
 */
 
 (function($) {
@@ -20,7 +20,7 @@
 
 	function loadGames() {
 		$.get('games.json', function(items) {
-			$('small').prepend(items.length + ' ')
+			$('.sub-header').prepend(items.length + ' ')
 			$.each(items, function(index, item) {
 				var template = $($('#game-template').html());
 
@@ -35,6 +35,8 @@
 
 				$('body').append(template);
 			});
+
+			$('.game, .sub-header').fadeIn(1500);
 		});
 	}
 

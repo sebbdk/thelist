@@ -1,5 +1,11 @@
 [
 	{
+		"title":"One way up",
+		"description":"A flappy bird inspired game, where the player has to escape the planet and dodge planes using a jetpack.",
+		"date":"Made June 2014",
+		"link":"sebbdk.github.io/onewayup/source-desktop/bin-release/Main.html"
+	},
+	{
 		"title":"Epic runner",
 		"description":"My first Unity game. Made in ~1 hour based on a tutorial tho.",
 		"date":"Made April 2014",

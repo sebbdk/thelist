@@ -1,6 +1,12 @@
 [
 	{
 		"title":"Cthulhu science",
+		"description":"Made a game where you smash into excersizing monsters in the forest during Bacon game jam 08 ",
+		"date":"Made Oct 2014",
+		"link":"https://bacongamejam.org/jams/bacongamejam-08/319/"
+	},
+	{
+		"title":"Cthulhu science",
 		"description":"A quick and dirty text adventure made in ~6 hours about Science and the great old one aka Cthulhu",
 		"date":"Made June 2014",
 		"link":"http://sebbdk.github.io/cthulhu-science/src/"

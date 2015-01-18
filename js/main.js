@@ -2,7 +2,7 @@
 * @Author: sebb
 * @Date:   2014-04-04 20:44:35
 * @Last Modified by:   sebb
-* @Last Modified time: 2014-04-07 03:07:15
+* @Last Modified time: 2015-01-18 20:57:51
 */
 
 (function($) {
@@ -11,9 +11,12 @@
 
 	$(document).ready(function() {
 		onResize();
+
 		setTimeout(function() {
 			$('body').addClass('active');
 		}, 300);
+
+		_track('blog_sebb_dk');
 
 		loadGames();
 	});

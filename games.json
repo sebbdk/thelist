@@ -1,5 +1,11 @@
 [
 	{
+		"title":"Little Space",
+		"description":"Made during the first Lizard Factory game jam, use shift to pick up tiles and WASD to move, and collect all the white cubes. :)",
+		"date":"Made 31-01 jan 2015",
+		"link":"http://sebbdk.github.io/LFG_little_space/build/LittleSpace/LittleSpace.html"
+	},
+	{
 		"title":"Bountiful exercise",
 		"description":"Made a game where you smash into excersizing monsters in the forest during Bacon game jam 08 ",
 		"date":"Made 18-19 Oct 2014",

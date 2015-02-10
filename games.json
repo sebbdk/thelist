@@ -1,5 +1,17 @@
 [
 	{
+		"title":"Sofus & Månemaskinen",
+		"description":"Made together with Malte Burup Jelshoj, a interactive childrens book for iPad.",
+		"date":"Made 7-09 feb 2015",
+		"link":"http://themoonmachine.dk"
+	},
+	{
+		"title":"Gone",
+		"description":"Made during NGJ(Nordic Game Jam) 2015, a game about the 5 stages of grief, lots of bugs, but lots of fun to make. :)",
+		"date":"Made 7-09 feb 2015",
+		"link":"http://ealis2001.itch.io/gone"
+	},
+	{
 		"title":"Little Space",
 		"description":"Made during the first Lizard Factory game jam, use shift to pick up tiles and WASD to move, and collect all the white cubes. :)",
 		"date":"Made 31-01 jan 2015",
@@ -84,7 +96,7 @@
 		"link":null
 	},
 	{
-		"title":"NGJ Mutants vs zombies",
+		"title":"NGJ Mutants vs Monsters",
 		"description":"Roll your way to victory in this wacky 2 player racing game",
 		"date":"Made 2013",
 		"link":null

@@ -2,7 +2,7 @@
 * @Author: sebb
 * @Date:   2014-04-04 20:44:35
 * @Last Modified by:   sebb
-* @Last Modified time: 2015-02-18 18:14:43
+* @Last Modified time: 2015-02-18 19:57:35
 */
 
 (function($) {
@@ -31,8 +31,8 @@
 				template.find('p').html(item.description);
 
 				if(item.picture) {
-				//	template.find('a').css('background-image', 'url("' + item.picture + '")');
-				//	template.addClass('has-img');
+					template.find('a').css('background-image', 'url("' + item.picture + '")');
+					template.addClass('has-img');
 				}
 
 				if(item.status) {
@@ -44,6 +44,7 @@
 						template.addClass('col-md-12');
 
 						if(item.picture) {
+							template.find('a').css('background-image', 'none');
 							template.find('a').append('<img style="" src="' + item.picture + '" />');
 						}
 					}

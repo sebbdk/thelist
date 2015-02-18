@@ -12,7 +12,7 @@
 		"description":"Made during NGJ(Nordic Game Jam) 2015, a game about the 5 stages of grief, lots of bugs, but lots of fun to make. :)",
 		"date":"Made 7-09 feb 2015",
 		"link":"http://ealis2001.itch.io/gone",
-		"picture":"img/gone.jpg"
+		"picture":"img/gone.png"
 	},
 	{
 		"title":"Little Space",
@@ -31,7 +31,8 @@
 		"description":"A quick and dirty text adventure made in ~6 hours about Science and the great old one aka Cthulhu",
 		"date":"Made June 2014",
 		"link":"http://sebbdk.github.io/cthulhu-science/src/",
-		"status":"decent"
+		"status":"decent",
+		"picture":"img/cthulhu.png"
 	},
 	{
 		"title":"One way up",

@@ -3,13 +3,16 @@
 		"title":"Sofus & Månemaskinen",
 		"description":"Made together with Malte Burup Jelshoj, a interactive childrens book for iPad.",
 		"date":"Made 7-09 feb 2015",
-		"link":"http://themoonmachine.dk"
+		"link":"http://themoonmachine.dk",
+		"status":"released",
+		"picture":"img/moon.jpg"
 	},
 	{
 		"title":"Gone",
 		"description":"Made during NGJ(Nordic Game Jam) 2015, a game about the 5 stages of grief, lots of bugs, but lots of fun to make. :)",
 		"date":"Made 7-09 feb 2015",
-		"link":"http://ealis2001.itch.io/gone"
+		"link":"http://ealis2001.itch.io/gone",
+		"picture":"img/gone.jpg"
 	},
 	{
 		"title":"Little Space",
@@ -27,25 +30,29 @@
 		"title":"Cthulhu science",
 		"description":"A quick and dirty text adventure made in ~6 hours about Science and the great old one aka Cthulhu",
 		"date":"Made June 2014",
-		"link":"http://sebbdk.github.io/cthulhu-science/src/"
+		"link":"http://sebbdk.github.io/cthulhu-science/src/",
+		"status":"decent"
 	},
 	{
 		"title":"One way up",
 		"description":"A flappy bird inspired game, where the player has to escape the planet and dodge planes using a jetpack.",
 		"date":"Made June 2014",
-		"link":"http://sebbdk.github.io/onewayup/source-desktop/bin-release/Main.html"
+		"link":"http://sebbdk.github.io/onewayup/source-desktop/bin-release/Main.html",
+		"status":"decent"
 	},
 	{
 		"title":"LD27 Reactor madness! - revised",
 		"description":"I went in a fixed a bunch of things i as unhappy with, the game is much better now, press space infront of the blue thing to start the game.",
 		"date":"Made May 2014",
-		"link":"http://sebbdk.github.io/LD27/flash-source/bin-release/Main.html"
+		"link":"http://sebbdk.github.io/LD27/flash-source/bin-release/Main.html",
+		"status":"decent"
 	},
 	{
 		"title":"Epic runner",
 		"description":"My first Unity game. Made in ~1 hour based on a tutorial tho.",
 		"date":"Made April 2014",
-		"link":"http://sebbdk.github.io/EpicRunner/builds/webbuild/"
+		"link":"http://sebbdk.github.io/EpicRunner/builds/webbuild/",
+		"status":"decent"
 	},
 	{
 		"title":"Burgermarine",
@@ -75,7 +82,8 @@
 		"title":"MINI LD \"Don't panic!\"",
 		"description":"A creepy sidescrolle made in HTML5, jump, run and ??",
 		"date":"made 2013",
-		"link":"http://sebbdk.github.io/mini-ludum-dare-42/game/"
+		"link":"http://sebbdk.github.io/mini-ludum-dare-42/game/",
+		"status":"decent"
 	},
 	{
 		"title":"Click",
@@ -105,12 +113,14 @@
 		"title":"Shoot the zombies - fancy version!",
 		"description":"Run, jump and shoot the zombies, now with colours!",
 		"date":"Made 2012",
-		"link":"http://crammer.deviantart.com/art/Zombie-shooter-fancy-version-211453338"
+		"link":"http://crammer.deviantart.com/art/Zombie-shooter-fancy-version-211453338",
+		"status":"decent"
 	},
 	{
 		"title":"Shoot the zombies",
 		"description":"Run, jump and shoot the zombies",
 		"date":"Made 2012",
-		"link":"http://crammer.deviantart.com/art/Shoot-the-zombies-210858975"
+		"link":"http://crammer.deviantart.com/art/Shoot-the-zombies-210858975",
+		"status":"decent"
 	}
 ]

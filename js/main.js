@@ -2,7 +2,7 @@
 * @Author: sebb
 * @Date:   2014-04-04 20:44:35
 * @Last Modified by:   sebb
-* @Last Modified time: 2015-01-18 20:57:51
+* @Last Modified time: 2015-02-18 18:14:43
 */
 
 (function($) {
@@ -30,13 +30,34 @@
 				template.find('h3').html(item.title);
 				template.find('p').html(item.description);
 
-				if(item.link) {
-					template.find('a').attr('href', item.link);
-				} else {
-					template.find('a').remove();
+				if(item.picture) {
+				//	template.find('a').css('background-image', 'url("' + item.picture + '")');
+				//	template.addClass('has-img');
 				}
 
-				$('body').append(template);
+				if(item.status) {
+					template.find('a').addClass(item.status);
+
+					if(item.status === "released") {
+						template.removeClass('col-md-6');
+						template.removeClass('has-img');
+						template.addClass('col-md-12');
+
+						if(item.picture) {
+							template.find('a').append('<img style="" src="' + item.picture + '" />');
+						}
+					}
+				}
+
+
+				if(item.link) {
+					template.find('a').attr('href', item.link);
+					template.find('a').addClass('playable');
+				} else {
+					template.find('a').addClass('unplayable');
+				}
+
+				$('body .row').append(template);
 			});
 
 			$('.game, .sub-header').fadeIn(1500);

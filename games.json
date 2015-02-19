@@ -84,7 +84,8 @@
 		"description":"A creepy sidescrolle made in HTML5, jump, run and ??",
 		"date":"made 2013",
 		"link":"http://sebbdk.github.io/mini-ludum-dare-42/game/",
-		"status":"decent"
+		"status":"decent",
+		"picture":"img/ld42.gif"
 	},
 	{
 		"title":"Click",

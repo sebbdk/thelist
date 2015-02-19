@@ -159,6 +159,8 @@ body.active {
 		border-radius: 0.5em;
 		text-shadow: 0px 0px 5px #000000;
 
+		box-shadow: inset 100px 0px 10px #999;
+
 		img {
 			width: 100%;
 		}
@@ -170,11 +172,13 @@ body.active {
 		&.decent {
 			background-color: $greenLight;
 			border-color: $greenDark;
+			box-shadow: inset 100px 0px 80px $greenLight;
 		}
 
 		&.released {
 			background-color: $greenLight;
 			border: 4px solid $greenDark;
+			box-shadow: inset 100px 0px 10px $greenLight;
 
 			.btn {
 				&.btn-primary {
@@ -201,5 +205,6 @@ body.active {
 a.game-content.unplayable {
 	border-color: $redLight;
 	background-color: $redDark;
+	box-shadow: inset 100px 0px 10px $redDark;
 	cursor: default;
 }

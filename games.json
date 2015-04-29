@@ -2,10 +2,18 @@
 	{
 		"title":"Sofus & Månemaskinen",
 		"description":"Made together with Malte Burup Jelshoj, a interactive childrens book for iPad.",
-		"date":"Made 7-09 feb 2015",
+		"date":"Released 2 feb 2015",
 		"link":"http://themoonmachine.dk",
 		"status":"released",
 		"picture":"img/moon.jpg"
+	},
+	{
+		"title":"OneWayUp - Revised!",
+		"description":"A Unity rewamp of a flash game i did ported to iOS and Android",
+		"date":"Released feb 2015",
+		"link":"http://onewayup.sebb.dk",
+		"status":"decent",
+		"picture":"img/onewayup.png"
 	},
 	{
 		"title":"Gone",
@@ -38,11 +46,10 @@
 		"title":"One way up",
 		"description":"A flappy bird inspired game, where the player has to escape the planet and dodge planes using a jetpack.",
 		"date":"Made June 2014",
-		"link":"http://sebbdk.github.io/onewayup/source-desktop/bin-release/Main.html",
-		"status":"decent"
+		"link":"http://sebbdk.github.io/onewayup/source-desktop/bin-release/Main.html"
 	},
 	{
-		"title":"LD27 Reactor madness! - revised",
+		"title":"LD27 Reactor madness! - Revised!",
 		"description":"I went in a fixed a bunch of things i as unhappy with, the game is much better now, press space infront of the blue thing to start the game.",
 		"date":"Made May 2014",
 		"link":"http://sebbdk.github.io/LD27/flash-source/bin-release/Main.html",

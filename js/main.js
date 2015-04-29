@@ -2,7 +2,7 @@
 * @Author: sebb
 * @Date:   2014-04-04 20:44:35
 * @Last Modified by:   sebb
-* @Last Modified time: 2015-02-18 19:57:35
+* @Last Modified time: 2015-04-29 19:40:14
 */
 
 (function($) {
@@ -16,7 +16,7 @@
 			$('body').addClass('active');
 		}, 300);
 
-		_track('blog_sebb_dk');
+		_track('thelist');
 
 		loadGames();
 	});

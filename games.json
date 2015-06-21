@@ -1,13 +1,5 @@
 [
 	{
-		"title":"Sofus & Månemaskinen",
-		"description":"Made together with Malte Burup Jelshoj, a interactive childrens book for iPad.",
-		"date":"Released 2 feb 2015",
-		"link":"http://themoonmachine.dk",
-		"status":"released",
-		"picture":"img/moon.jpg"
-	},
-	{
 		"title":"Wahoo! 1 hour game",
 		"description":"Made this game in 1 hour and ~20 minutes for bacon-jam 09 lols and giggles",
 		"date":"Released 14 june 2015",
@@ -37,6 +29,14 @@
 		"date":"Made 7-09 feb 2015",
 		"link":"http://ealis2001.itch.io/gone",
 		"picture":"img/gone.png"
+	},
+	{
+		"title":"Sofus & Månemaskinen",
+		"description":"Made together with Malte Burup Jelshoj, a interactive childrens book for iPad.",
+		"date":"Released 2 feb 2015",
+		"link":"http://themoonmachine.dk",
+		"status":"released",
+		"picture":"img/moon.jpg"
 	},
 	{
 		"title":"Little Space",

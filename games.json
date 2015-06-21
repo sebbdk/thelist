@@ -24,6 +24,14 @@
 		"picture":"img/onewayup.png"
 	},
 	{
+		"title":"Planet Escape!",
+		"description":"A game made for for Gecko Game Jam!",
+		"date":"Released 2 april 2015",
+		"link":"http://sebbdk.github.io/Planet-Escape/build/01/web/web.html",
+		"status":"decent",
+		"picture":"img/planet-escape.png"
+	},
+	{
 		"title":"Gone",
 		"description":"Made during NGJ(Nordic Game Jam) 2015, a game about the 5 stages of grief, lots of bugs, but lots of fun to make. :)",
 		"date":"Made 7-09 feb 2015",
